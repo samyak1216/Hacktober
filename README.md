@@ -1,1 +1,1 @@
-This file i created for hacktober fest 2020
+This file is created for hacktober fest 2020
